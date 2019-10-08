@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:TecladoNuméricoDinámico"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="317.115" Icon="128 (3).ico">
-    <Grid>
+    <Grid x:Name="GridTabla">
         <Grid.RowDefinitions>
             <RowDefinition ></RowDefinition>
             <RowDefinition ></RowDefinition>
